@@ -1,0 +1,9 @@
+31 May 2015 02:13:17,427 ERROR: com.lab.epam.logger.MyLogger - java.io.FileNotFoundException: ..\WEB-INF\persistant.xml (Не вдалося знайти вказаний шлях)
+31 May 2015 02:16:29,169 ERROR: com.lab.epam.logger.MyLogger - java.io.FileNotFoundException: $CATALINA_BASE\webapps\Task4WebRestourant\META-INF\persistant.xml (Не вдалося знайти вказаний шлях)
+31 May 2015 02:22:56,856 ERROR: com.lab.epam.logger.MyLogger - java.io.FileNotFoundException: D:\JAVA\server 8\apache-tomcat-8.0.23\bin\Task4WebRestourant\META-INF\persistant.xml (Не вдалося знайти вказаний шлях)
+31 May 2015 02:26:23,672 ERROR: com.lab.epam.logger.MyLogger - java.io.FileNotFoundException: D:\JAVA\server 8\apache-tomcat-8.0.23\bin\Task4WebRestourant\META-INF\persistant.xml (Не вдалося знайти вказаний шлях)
+31 May 2015 02:49:11,092 ERROR: com.lab.epam.logger.MyLogger - java.io.FileNotFoundException: D:\JAVA\IDE\eclipse\workspace\Task4WebRestourant\src\main\webapp\resources\config\persistant.xml (Не вдалося знайти вказаний шлях)
+02 Jun 2015 00:28:25,349 ERROR: com.lab.epam.logger.MyLogger - java.lang.IllegalArgumentException: Can not set java.lang.String field com.lab.epam.entity.User.confirm to java.lang.Boolean
+02 Jun 2015 00:28:28,156 ERROR: com.lab.epam.logger.MyLogger - java.lang.IllegalArgumentException: Can not set java.lang.String field com.lab.epam.entity.User.confirm to java.lang.Boolean
+02 Jun 2015 01:17:41,281 ERROR: com.lab.epam.logger.MyLogger - com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry 'Dima' for key 'login_UNIQUE'
+02 Jun 2015 20:13:39,216 ERROR: com.lab.epam.logger.MyLogger - com.mysql.jdbc.MysqlDataTruncation: Data truncation: Data too long for column 'name' at row 1
